@@ -2,7 +2,7 @@
 
 
 
-outer approximation for branch and bound method based on simplicial subdivision 
+outer approximation for branch and bound method based on radial simplicial subdivision 
 
 for the canonical DC programming (CDC) problem
 
@@ -16,7 +16,7 @@ outer approximation
 
 全局优化方法
 
- branch and bound method based on simplicial subdivision
+ branch and bound method based on radial simplicial subdivision
 
 
 
